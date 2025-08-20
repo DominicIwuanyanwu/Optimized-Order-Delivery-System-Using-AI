@@ -1,0 +1,21 @@
+The code for each assessment from task 2 to task 4 are named respectively and can be found in the zip file
+
+task2CodeForCoursework 
+
+Task3CodeForCoursework
+
+Task4CodeForCoursework
+
+Noteably, for task 2 and 3 where the grid is being loaded you may need to change the file location to your systems pathway 
+
+That is , for task 2 where the traversal data cost is being loaded 
+Kindly change the pathway to the pathway of where you extracted all the data
+same for task 3 
+
+In task 3 the polynomial regression data from task 2 is also being used(loaded). You may need to change this as well to your pathway
+ 
+
+The traversal_Cost_data and provided_grid are in the zip file.
+
+Thank you very much.
+And Happy New Year!!!
